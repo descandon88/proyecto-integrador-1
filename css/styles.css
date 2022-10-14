@@ -201,6 +201,7 @@ div.news-row-1  >p {
 .news-row-2 {
     display:flex;
     flex-direction: row;
+    justify-content: center;
 }
 .news-card-1, .news-card-2, .news-card-3,
 .news-card-4{
@@ -209,6 +210,9 @@ div.news-row-1  >p {
     border-radius: 12px;
     margin: 10px;
     background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
 }
 
 .news-card1-ul, .news-card2-ul,
