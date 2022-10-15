@@ -228,6 +228,7 @@ div.news-row-1  >p {
 }
 
 .news-card1-imgFondo {
+    position:relative;
     background-image: url("/materiales_UX_UI/Materiales/voluntariado-animales.jfif");
     height: 40%;
     width: 100%;
@@ -238,6 +239,7 @@ div.news-row-1  >p {
 
 }
 .news-card2-imgFondo {
+    position:relative;
     background-image: url("/materiales_UX_UI/Materiales/voluntariado-pintura.jpeg");
     height: 40%;
     width: 100%;
@@ -254,5 +256,8 @@ div.news-row-1  >p {
     color:white;
     text-align: center;
     border-radius: 15px;
+    position:absolute;
+    bottom: 10px;
+    left:5px;
 
 }
