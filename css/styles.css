@@ -1,4 +1,4 @@
-/*SECCION NOSOTROS*/
+/********* SECCION NOSOTROS ********/
 * {
    
     font-family: "DM Sans", sans-serif;
@@ -16,7 +16,7 @@
 .we-row1, .we-row2 {
     display: flex;
     flex-direction: row;
-    align-items: center;             /* center flex items vertically */
+    align-items: center;            
     justify-items: center;
     
 }
